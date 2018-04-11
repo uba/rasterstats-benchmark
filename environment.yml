@@ -1,0 +1,11 @@
+name: rasterstats-benchmark-env
+channels:
+- defaults
+- conda-forge
+dependencies:
+- python=2.7
+- numpy
+- gdal
+- affine
+- rasterstats
+- basemap
